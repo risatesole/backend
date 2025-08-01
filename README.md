@@ -1,0 +1,1 @@
+# Backend serverless function side of the aplication
